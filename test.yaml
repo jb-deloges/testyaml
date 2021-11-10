@@ -30,6 +30,7 @@ components:
         id:
           type: integer
           example: 4
+          x-test: true
         name:
           type: string
           example: Arthur Dent
