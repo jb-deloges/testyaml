@@ -40,3 +40,4 @@ components:
         - name
       x-recommended:
         - id
+        - name
